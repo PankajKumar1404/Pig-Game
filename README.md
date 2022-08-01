@@ -6,3 +6,6 @@ If the player rolls any other number, it is added to their turn total and the pl
 If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 
 The first player to score 100 or more points wins.
+
+![image](https://user-images.githubusercontent.com/109987626/182158336-3826867f-4223-466c-b872-fbec9ace7969.png)
+
